@@ -1,2 +1,2 @@
 # CQUACM
-A WebSite for ACMers from Chongqing University 
+A WebSite for ACMers from Chongqing University Oh.
